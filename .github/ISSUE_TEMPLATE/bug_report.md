@@ -10,6 +10,9 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+**Test case ID (optional)**
+If you found the bug during the execution of a test case.
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
